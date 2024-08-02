@@ -1,0 +1,13 @@
+* D:\OneDrive\Documentos\Facultad\Teoria de Circuitos 2\Teoria-de-Circuitos-2\20230726\LTspice\20230726 - Ejercicio 1.asc
+V1 N001 N003 AC 1 0
+R1 N002 N001 1.41421356237305
+C1 0 N001 1
+L1 0 N001 1
+R2 0 N003 1.41421356237305
+C2 N002 N003 1
+L2 N002 N003 1
+RL N002 0 1
+.ac dec 100 0.001 1000
+;.tran 1
+.backanno
+.end
