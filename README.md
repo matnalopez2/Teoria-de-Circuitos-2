@@ -37,7 +37,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ### Final 20230726
 * Ejercicio 1: 
-a. ok para corregir
+    a. ok para corregir
     * *ítem b*: ok para corregir
     * *ítem c*: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
     * *ítem d*: revisar manuscrito y simulación para $S_{C_1}^{\omega_0}$
