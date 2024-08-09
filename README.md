@@ -27,11 +27,13 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ## Resumen de avances
 
+|----------|-------------|-------------|-------------|
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
 | 20230927 | pendiente   | pendiente   | ENTREGADO   |
 | 20240513 | pendiente   | ENTREGADO   | pendiente   |
+|----------|-------------|-------------|-------------|
 
 ## Detalles por Final
 
@@ -42,13 +44,11 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
     * <u>ítem c</u>: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
     * <u>ítem d</u>: revisar manuscrito y simulación para $S_{C_1}^{\omega_0}$
     * <u>ítem e</u>: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
-
-* Ejercicio 2: 
-* Ejercicio 3: 
-
+* Ejercicio 2: empezado, pero hay que hacerlo bien. hay errores que revisé con Mariano pero no recuerdo. Creo que hacía ruido Ro
+* Ejercicio 3: sin empezar
 
 ### Final 20230927
-* Ejercicio 1: 
+* Ejercicio 1: iniciado en papel, calculados S11 y S22, faltan S21 y S12. Calculé V2/Vg1 pero hay que terminarlo
     * tips Mariano para resolución:
         * $|S21|^{2}$ debería ser $1-|S11|^{2}$ y es aprox una constante
         * simular en LTSpice
@@ -56,13 +56,10 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 * Ejercicio 2: creación de notebook, contiene resolución manuscrita y pendiente comprobación por software
 * Ejercicio 3: ok para corregir
 
-
 ### Final 20240513
-* Ejercicio 1: 
+* Ejercicio 1: sin empezar
 * Ejercicio 2: ok para corregir
-* Ejercicio 3: 
-
-
+* Ejercicio 3: idem 20230927 ejercicio 1
 
 # Correcciones de Mariano
 
