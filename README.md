@@ -40,7 +40,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
     * *ítem a*: ok para corregir
     * *ítem b*: ok para corregir
     * *ítem c*: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
-    * *ítem d*: revisar manuscrito y simulación para $S_{C_1}^{\omega_0}$
+    * *ítem d*: $S_{R_2}^{Q}$ ok para corregir. revisar manuscrito y simulación para $S_{C_1}^{\omega_0}$
     * *ítem e*: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
 * Ejercicio 2: empezado, pero hay que hacerlo bien. hay errores que revisé con Mariano pero no recuerdo. Creo que hacía ruido Ro
 * Ejercicio 3: sin empezar
