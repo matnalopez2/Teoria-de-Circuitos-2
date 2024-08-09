@@ -27,13 +27,11 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ## Resumen de avances
 
-|----------|-------------|-------------|-------------|
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
 | 20230927 | pendiente   | pendiente   | ENTREGADO   |
 | 20240513 | pendiente   | ENTREGADO   | pendiente   |
-|----------|-------------|-------------|-------------|
 
 ## Detalles por Final
 
