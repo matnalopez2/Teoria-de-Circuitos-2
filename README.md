@@ -30,7 +30,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
-| 20230927 | pendiente   | pendiente   | ENTREGADO   |
+| 20230927 | pendiente   | pendiente   | APROBADO    |
 | 20240513 | pendiente   | ENTREGADO   | pendiente   |
 
 ## Detalles por Final
@@ -52,7 +52,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
         * simular en LTSpice
         * probar interconexión de cuadripolos
 * Ejercicio 2: manuscrito ok. pendiente comprobación por software
-* Ejercicio 3: ok para corregir
+* Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
 * Ejercicio 1: sin empezar
@@ -75,7 +75,7 @@ Ejercicio 1:
 
 Ejercicio 2: 
 
-Ejercicio 3: 
+Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20230726
 
