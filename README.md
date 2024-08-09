@@ -53,7 +53,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
         * $|S21|^{2}$ debería ser $1-|S11|^{2}$ y es aprox una constante
         * simular en LTSpice
         * probar interconexión de cuadripolos
-* Ejercicio 2: 
+* Ejercicio 2: creación de notebook, contiene resolución manuscrita y pendiente comprobación por software
 * Ejercicio 3: ok para corregir
 
 
