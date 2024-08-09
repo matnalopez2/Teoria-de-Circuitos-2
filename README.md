@@ -1,6 +1,6 @@
 # Trabajo Práctico - Teoría de Circuitos 2
 ## Descripción del Proyecto
-Este repositorio contiene la resolución de tres exámenes finales correspondientes a la materia Teoría de Circuitos 2 en la Universidad Tecnológica Nacional, Facultad Regional de Buenos Aires. El proyecto forma parte de la carrera de Ingeniería Electrónica y abarca los exámenes de las fechas 20230726, 20230927, y 20240513.
+Este repositorio contiene la resolución de tres exámenes finales correspondientes a la materia Teoría de Circuitos 2 en la Universidad Tecnológica Nacional, Facultad Regional de Buenos Aires. El proyecto forma parte de la carrera de Ingeniería Electrónica y abarca los exámenes de las fechas 26/07/2023, 27/09/2023, y 13/05/2024.
 
 Cada examen se desarrolla a través de un enfoque integral, que incluye tanto la resolución matemática tradicional en papel como la validación de los resultados mediante simulaciones en software, utilizando Jupyter Notebook y LTSpice.
 
