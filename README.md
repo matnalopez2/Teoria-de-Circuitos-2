@@ -31,7 +31,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
 | 20230927 | pendiente   | pendiente   | pendiente   |
-| 20240513 | pendiente   | entregado   | pendiente   |
+| 20240513 | pendiente   | ENTREGADO   | pendiente   |
 
 ## Detalles por Final
 
