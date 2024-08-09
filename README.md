@@ -59,7 +59,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 * Ejercicio 2: ok para corregir
 * Ejercicio 3: idem 20230927 ejercicio 1
 
-# Correcciones de Mariano
+# Correcciones
 
 ### Final 20240513
 
