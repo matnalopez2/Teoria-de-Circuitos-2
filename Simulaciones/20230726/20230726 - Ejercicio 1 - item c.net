@@ -1,0 +1,27 @@
+* D:\OneDrive\Documentos\Facultad\Teoria de Circuitos 2\Teoria-de-Circuitos-2\Simulaciones\20230726\20230726 - Ejercicio 1 - item c.asc
+R5 N001 vi {R5}
+XU1 N005 N003 N004 opamp Aol=100K GBW=10Meg
+XU2 N005 N001 N006 opamp Aol=100K GBW=10Meg
+C1 N003 vi {C1} Rser=0 Lser=0 Rpar=0
+R2 N003 0 {R2}
+R1 N006 N003 {R1}
+R3 N004 N005 {R3}
+R4 N001 N004 {R4}
+C2 N005 N006 {C2} Rser=0 Lser=0 Rpar=0
+V1 vi 0 AC 1 0
+R6 N002 N004 1
+R7 vo N002 1
+XU4 N002 0 vo opamp Aol=100K GBW=10Meg
+* Configuración de la simulación
+.inc opamp.sub
+.ac dec 1000 0.001 1000
+.param C1= 0.7071067811865475
+.param valor = 1
+.param C2= 1.4142135623730951
+.param R1= {valor}
+.param R2= {valor}
+.param R3= {valor}
+.param R4= {valor}
+.param R5= {valor}
+.backanno
+.end
