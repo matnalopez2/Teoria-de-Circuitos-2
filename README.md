@@ -30,7 +30,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
-| 20230927 | pendiente   | pendiente   | APROBADO    |
+| 20230927 | pendiente   | A ENTREGAR  | APROBADO    |
 | 20240513 | pendiente   | APROBADO    | pendiente   |
 
 ## Detalles por Final
@@ -51,7 +51,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
         * $|S21|^{2}$ debería ser $1-|S11|^{2}$ y es aprox una constante
         * simular en LTSpice
         * probar interconexión de cuadripolos
-* Ejercicio 2: manuscrito ok. pendiente comprobación por software
+* Ejercicio 2: ok para corregir
 * Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
