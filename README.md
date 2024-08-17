@@ -29,9 +29,9 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
-| 20230726 | pendiente   | pendiente   | pendiente   |
-| 20230927 | pendiente   | A ENTREGAR  | APROBADO    |
-| 20240513 | pendiente   | APROBADO    | pendiente   |
+| 20230726 | CONSULTAR   | REVISAR     | pendiente   |
+| 20230927 | REVISAR     | A ENTREGAR  | APROBADO    |
+| 20240513 | pendiente   | APROBADO    | REVISAR     |
 
 ## Detalles por Final
 
