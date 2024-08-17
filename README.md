@@ -31,7 +31,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 |----------|-------------|-------------|-------------|
 | 20230726 | pendiente   | pendiente   | pendiente   |
 | 20230927 | pendiente   | pendiente   | APROBADO    |
-| 20240513 | pendiente   | ENTREGADO   | pendiente   |
+| 20240513 | pendiente   | APROBADO    | pendiente   |
 
 ## Detalles por Final
 
@@ -56,7 +56,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ### Final 20240513
 * Ejercicio 1: sin empezar
-* Ejercicio 2: ok para corregir
+* Ejercicio 2: APROBADO EL 09/08/2024
 * Ejercicio 3: idem 20230927 ejercicio 1
 
 # Correcciones
@@ -83,7 +83,7 @@ Ejercicio 1:
 
 Ejercicio 2: 
 
-Ejercicio 3:
+Ejercicio 3: APROBADO EL 09/08/2024
 
 
 ## Licencia
