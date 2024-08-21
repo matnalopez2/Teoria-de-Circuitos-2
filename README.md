@@ -30,7 +30,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | CONSULTAR   | A ENTREGAR  | pendiente   |
-| 20230927 | REVISAR     | A ENTREGAR  | APROBADO    |
+| 20230927 | TERMINAR    | A ENTREGAR  | APROBADO    |
 | 20240513 | pendiente   | APROBADO    | REVISAR     |
 
 ## Detalles por Final
@@ -46,11 +46,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 * Ejercicio 3: sin empezar
 
 ### Final 20230927
-* Ejercicio 1: iniciado en papel, calculados S11 y S22, faltan S21 y S12. Calculé V2/Vg1 pero hay que terminarlo
-    * tips Mariano para resolución:
-        * $|S21|^{2}$ debería ser $1-|S11|^{2}$ y es aprox una constante
-        * simular en LTSpice
-        * probar interconexión de cuadripolos
+* Ejercicio 1: manuscrito ok, pendiente simular en LTSpice
 * Ejercicio 2: A ENTREGAR
 * Ejercicio 3: APROBADO EL 09/08/2024
 
@@ -65,7 +61,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 Ejercicio 1: 
 
-Ejercicio 2: 
+Ejercicio 2: PENDIENTE DE ENTREGAR
 
 Ejercicio 3: 
 
@@ -73,7 +69,7 @@ Ejercicio 3:
 
 Ejercicio 1: 
 
-Ejercicio 2: 
+Ejercicio 2: PENDIENTE DE ENTREGAR
 
 Ejercicio 3: APROBADO EL 09/08/2024
 
