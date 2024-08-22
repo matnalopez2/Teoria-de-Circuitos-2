@@ -31,7 +31,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 |----------|-------------|-------------|-------------|
 | 20230726 | CONSULTAR   | A ENTREGAR  | pendiente   |
 | 20230927 | A ENTREGAR  | A ENTREGAR  | APROBADO    |
-| 20240513 | pendiente   | APROBADO    | REVISAR     |
+| 20240513 | pendiente   | APROBADO    | POR TERMINAR|
 
 ## Detalles por Final
 
@@ -53,13 +53,13 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 ### Final 20240513
 * Ejercicio 1: sin empezar
 * Ejercicio 2: APROBADO EL 09/08/2024
-* Ejercicio 3: para revisar
+* Ejercicio 3: para terminar, faltan idems b y c y luego simular en LTSpice
 
 # Correcciones
 
-### Final 20240513
+### Final 20230726
 
-Ejercicio 1: 
+Ejercicio 1: PARA CONSULTAR ANTES DE ENTREGAR
 
 Ejercicio 2: PENDIENTE DE ENTREGAR
 
@@ -67,19 +67,19 @@ Ejercicio 3:
 
 ### Final 20230927
 
-Ejercicio 1: 
+Ejercicio 1: PENDIENTE DE ENTREGAR
 
 Ejercicio 2: PENDIENTE DE ENTREGAR
 
 Ejercicio 3: APROBADO EL 09/08/2024
 
-### Final 20230726
+### Final 20240513
 
 Ejercicio 1: 
 
-Ejercicio 2: 
+Ejercicio 2: APROBADO EL 09/08/2024
 
-Ejercicio 3: APROBADO EL 09/08/2024
+Ejercicio 3: PARA TERMINAR -CHEQUEAR SI HACE FALTA CONSULTAR ALGO-
 
 
 ## Licencia
