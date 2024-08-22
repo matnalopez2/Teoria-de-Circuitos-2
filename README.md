@@ -30,7 +30,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 | FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
 |----------|-------------|-------------|-------------|
 | 20230726 | CONSULTAR   | A ENTREGAR  | pendiente   |
-| 20230927 | TERMINAR    | A ENTREGAR  | APROBADO    |
+| 20230927 | A ENTREGAR  | A ENTREGAR  | APROBADO    |
 | 20240513 | pendiente   | APROBADO    | REVISAR     |
 
 ## Detalles por Final
@@ -46,7 +46,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 * Ejercicio 3: sin empezar
 
 ### Final 20230927
-* Ejercicio 1: manuscrito ok, pendiente simular en LTSpice
+* Ejercicio 1: A ENTREGAR
 * Ejercicio 2: A ENTREGAR
 * Ejercicio 3: APROBADO EL 09/08/2024
 

@@ -1,0 +1,10 @@
+* D:\OneDrive\Documentos\Facultad\Teoria de Circuitos 2\Teoria-de-Circuitos-2\Simulaciones\20230927\Ejercicio1.asc
+R1 v1 vg 1
+L1 N001 v1 1 Rser=0
+C1 N001 0 2 Rser=0
+L2 Vo N001 1 Rser=0
+R2 Vo 0 1
+V1 vg 0 AC 1 0
+.ac dec 1000 0.01 10
+.backanno
+.end
