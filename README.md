@@ -33,11 +33,12 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 | 20230927 | A ENTREGAR  | A ENTREGAR  | APROBADO    |
 | 20240513 | pendiente   | APROBADO    | A ENTREGAR  |
 
-| FINAL    | EJERCICIO 1                                   | EJERCICIO 2                                   | EJERCICIO 3                                   |
-|----------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
-| 20230726 | <span style="color: orange;">CONSULTAR</span> | <span style="color: lightgreen;">A ENTREGAR</span> | <span style="color: red;">pendiente</span>   |
-| 20230927 | <span style="color: lightgreen;">A ENTREGAR</span> | <span style="color: lightgreen;">A ENTREGAR</span> | <span style="color: darkgreen;">APROBADO</span> |
-| 20240513 | <span style="color: red;">pendiente</span>    | <span style="color: darkgreen;">APROBADO</span>   | <span style="color: lightgreen;">A ENTREGAR</span> |
+| FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
+|----------|---------------|--------------|--------------|
+| 20230726 | 🟠 CONSULTAR  | 🟢 A ENTREGAR | 🔴 pendiente |
+| 20230927 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | ✅ APROBADO  |
+| 20240513 | 🔴 pendiente  | ✅ APROBADO   | 🟢 A ENTREGAR |
+
 
 
 ## Detalles por Final
