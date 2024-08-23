@@ -27,15 +27,9 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ## Resumen de avances
 
-| FINAL    | EJERCICIO 1 | EJERCICIO 2 | EJERCICIO 3 |
-|----------|-------------|-------------|-------------|
-| 20230726 | CONSULTAR   | A ENTREGAR  | pendiente   |
-| 20230927 | A ENTREGAR  | A ENTREGAR  | APROBADO    |
-| 20240513 | pendiente   | APROBADO    | A ENTREGAR  |
-
 | FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
 |----------|---------------|--------------|--------------|
-| 20230726 | 🟠 CONSULTAR  | 🟢 A ENTREGAR | 🔴 pendiente |
+| 20230726 | 🟡 CONSULTAR  | 🟢 A ENTREGAR | 🔴 pendiente |
 | 20230927 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | ✅ APROBADO  |
 | 20240513 | 🔴 pendiente  | ✅ APROBADO   | 🟢 A ENTREGAR |
 
