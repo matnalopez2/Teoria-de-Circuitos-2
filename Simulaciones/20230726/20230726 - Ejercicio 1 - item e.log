@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
-Circuit: * D:\OneDrive\Documentos\Facultad\Teoria de Circuitos 2\Teoria-de-Circuitos-2\Simulaciones\20230726\20230726 - Ejercicio 1 - item e.asc
-Start Time: Sat Aug 17 11:01:50 2024
+Circuit: * D:\OneDrive\Documentos\Facultad\Teoria de Circuitos 2\Teoria-de-Circuitos-2\Simulaciones\20230726\20230726 - Ejercicio 1 - item e - 2.asc
+Start Time: Mon Aug 26 07:27:55 2024
 solver = Normal
 Maximum thread count: 8
 tnom = 27
@@ -11,9 +11,13 @@ Ignoring empty pin current: Ix(u1:1)
 Ignoring empty pin current: Ix(u1:2)
 Ignoring empty pin current: Ix(u2:1)
 Ignoring empty pin current: Ix(u2:2)
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
 Ignoring empty pin current: Ix(u1:1)
 Ignoring empty pin current: Ix(u1:2)
 Ignoring empty pin current: Ix(u2:1)
 Ignoring empty pin current: Ix(u2:2)
-Total elapsed time: 0.052 seconds.
+Ignoring empty pin current: Ix(u4:1)
+Ignoring empty pin current: Ix(u4:2)
+Total elapsed time: 0.165 seconds.
 

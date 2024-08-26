@@ -28,19 +28,14 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 | FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
 |----------|---------------|--------------|--------------|
-| 20230726 | 🟡 CONSULTAR  | 🟢 A ENTREGAR | 🔴 pendiente |
+| 20230726 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | 🔴 pendiente |
 | 20230927 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | ✅ APROBADO  |
 | 20240513 | 🔴 pendiente  | ✅ APROBADO   | 🟢 A ENTREGAR |
 
 ## Detalles por Final
 
 ### Final 20230726
-* Ejercicio 1: 
-    * *ítem a*: ok para corregir
-    * *ítem b*: ok para corregir
-    * *ítem c*: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
-    * *ítem d*: $S_{R_2}^{Q}$ ok para corregir. revisar manuscrito y simulación para $S_{C_1}^{\omega_0}$
-    * *ítem e*: revisar simulación en LTSpice. si la simulación está ok, se debe revisar el cálculo de componentes porque no verifica
+* Ejercicio 1: A ENTREGAR
 * Ejercicio 2: A ENTREGAR
 * Ejercicio 3: sin empezar
 
