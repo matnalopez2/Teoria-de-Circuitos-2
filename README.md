@@ -28,9 +28,9 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 | FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
 |----------|---------------|--------------|--------------|
-| 20230726 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | 🔴 pendiente |
-| 20230927 | 🟢 A ENTREGAR | 🟢 A ENTREGAR | ✅ APROBADO  |
-| 20240513 | 🔴 pendiente  | ✅ APROBADO   | 🟢 A ENTREGAR |
+| 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🔴 pendiente |
+| 20230927 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | ✅ APROBADO  |
+| 20240513 | 🔴 pendiente  | ✅ APROBADO   | 🟢 PARA CORREGIR |
 
 ## Detalles por Final
 
