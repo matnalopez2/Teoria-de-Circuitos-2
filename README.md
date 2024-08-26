@@ -53,7 +53,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ### Final 20230726
 
-Ejercicio 1: PARA CONSULTAR ANTES DE ENTREGAR
+Ejercicio 1: PENDIENTE DE ENTREGAR
 
 Ejercicio 2: PENDIENTE DE ENTREGAR
 
