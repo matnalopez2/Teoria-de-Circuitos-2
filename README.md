@@ -28,7 +28,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 | FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
 |----------|---------------|--------------|--------------|
-| 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🔴 Pendiente |
+| 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🟡 CONSULTAR |
 | 20230927 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | ✅ Aprobado  |
 | 20240513 | 🔴 Pendiente  | ✅ Aprobado   | 🟢 PARA CORREGIR |
 
@@ -37,7 +37,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 ### Final 20230726
 * Ejercicio 1: A ENTREGAR
 * Ejercicio 2: A ENTREGAR
-* Ejercicio 3: sin empezar
+* Ejercicio 3: Adjunto ejercicio (a), parece no estar desnormalizado. CONSULTAR. Pendiente desarrollo de (b)
 
 ### Final 20230927
 * Ejercicio 1: A ENTREGAR
