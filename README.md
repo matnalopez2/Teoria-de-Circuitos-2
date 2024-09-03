@@ -28,42 +28,42 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 | FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
 |----------|---------------|--------------|--------------|
-| 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🟡 CONSULTAR |
+| 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🟢 A ENTREGAR |
 | 20230927 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | ✅ Aprobado  |
 | 20240513 | 🔴 Pendiente  | ✅ Aprobado   | 🟢 PARA CORREGIR |
 
 ## Detalles por Final
 
 ### Final 20230726
-* Ejercicio 1: A ENTREGAR
-* Ejercicio 2: A ENTREGAR
-* Ejercicio 3: Adjunto ejercicio (a), parece no estar desnormalizado. CONSULTAR. Pendiente desarrollo de (b)
+* Ejercicio 1: PARA CORREGIR
+* Ejercicio 2: PARA CORREGIR
+* Ejercicio 3: A ENTREGAR
 
 ### Final 20230927
-* Ejercicio 1: A ENTREGAR
-* Ejercicio 2: A ENTREGAR
+* Ejercicio 1: PARA CORREGIR
+* Ejercicio 2: PARA CORREGIR
 * Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
 * Ejercicio 1: sin empezar
 * Ejercicio 2: APROBADO EL 09/08/2024
-* Ejercicio 3: A ENTREGAR
+* Ejercicio 3: PARA CORREGIR
 
 # Correcciones
 
 ### Final 20230726
 
-Ejercicio 1: PENDIENTE DE ENTREGAR
+Ejercicio 1: PENDIENTE DE CORREGIR
 
-Ejercicio 2: PENDIENTE DE ENTREGAR
+Ejercicio 2: PENDIENTE DE CORREGIR
 
-Ejercicio 3: 
+Ejercicio 3: PENDIENTE DE ENTREGAR
 
 ### Final 20230927
 
-Ejercicio 1: PENDIENTE DE ENTREGAR
+Ejercicio 1: PENDIENTE DE CORREGIR
 
-Ejercicio 2: PENDIENTE DE ENTREGAR
+Ejercicio 2: PENDIENTE DE CORREGIR
 
 Ejercicio 3: APROBADO EL 09/08/2024
 
@@ -73,7 +73,7 @@ Ejercicio 1:
 
 Ejercicio 2: APROBADO EL 09/08/2024
 
-Ejercicio 3: PENDIENTE DE ENTREGAR
+Ejercicio 3: PENDIENTE DE CORREGIR
 
 
 ## Licencia
