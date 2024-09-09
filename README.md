@@ -30,7 +30,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 |----------|---------------|--------------|--------------|
 | 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🟢 A ENTREGAR |
 | 20230927 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | ✅ Aprobado  |
-| 20240513 | 🟡 CONSULTAR  | ✅ Aprobado   | 🟢 PARA CORREGIR |
+| 20240513 | 🟡 PARA TERMINAR  | ✅ Aprobado   | 🟢 PARA CORREGIR |
 
 ## Detalles por Final
 
@@ -69,7 +69,7 @@ Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
 
-Ejercicio 1: CONSULTAS - TRANSFERENCIA NO COINCIDE
+Ejercicio 1: PENDIENTES ITEMS c Y d
 
 Ejercicio 2: APROBADO EL 09/08/2024
 
