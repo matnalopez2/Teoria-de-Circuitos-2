@@ -1,4 +1,4 @@
-# Trabajo Práctico - Teoría de Circuitos 2
+# Teoría de Circuitos 2
 ## Descripción del Proyecto
 Este repositorio contiene la resolución de tres exámenes finales correspondientes a la materia Teoría de Circuitos 2 en la Universidad Tecnológica Nacional, Facultad Regional de Buenos Aires. El proyecto forma parte de la carrera de Ingeniería Electrónica y abarca los exámenes de las fechas 26/07/2023, 27/09/2023 y 13/05/2024.
 
@@ -26,11 +26,11 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 
 ## Resumen de avances
 
-| FINAL    | EJERCICIO 1  | EJERCICIO 2  | EJERCICIO 3  |
-|----------|---------------|--------------|--------------|
+| FINAL    | EJERCICIO 1      | EJERCICIO 2       | EJERCICIO 3       |
+|----------|------------------|-------------------|-------------------|
 | 20230726 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | 🟢 A ENTREGAR    |
 | 20230927 | 🟢 PARA CORREGIR | 🟢 PARA CORREGIR | ✅ Aprobado      |
-| 20240513 | 🟡 PARA TERMINAR | ✅ Aprobado      | 🟢 PARA CORREGIR |
+| 20240513 | 🟢 PARA CORREGIR | ✅ Aprobado      | 🟢 PARA CORREGIR |
 
 ## Detalles por Final
 
@@ -45,7 +45,7 @@ Este repositorio está diseñado como un recurso de consulta y lectura. Los note
 * Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
-* Ejercicio 1: sin empezar
+* Ejercicio 1: PARA CORREGIR
 * Ejercicio 2: APROBADO EL 09/08/2024
 * Ejercicio 3: PARA CORREGIR
 
@@ -69,7 +69,7 @@ Ejercicio 3: APROBADO EL 09/08/2024
 
 ### Final 20240513
 
-Ejercicio 1: PENDIENTES ITEMS c Y d
+Ejercicio 1: PENDIENTE DE CORREGIR
 
 Ejercicio 2: APROBADO EL 09/08/2024
 
